@@ -28,10 +28,10 @@ export const AVAILABLE_PLACES = [
   },
   {
     id: "p2",
-    title: "Sahara Desert Dunes",
+    title: "Forest Waterfall",
     image: {
-      src: desertDunes,
-      alt: "Golden dunes stretching to the horizon in the Sahara Desert.",
+      src: forestWaterfallImg,
+      alt: "A tranquil forest with a cascading waterfall amidst greenery.",
     },
   },
   {
